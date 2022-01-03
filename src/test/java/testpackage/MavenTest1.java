@@ -7,7 +7,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test; 
 public class MavenTest1 {
 	public String baseUrl = "https://www.google.com/";  
-	String driverPath = "C://Software//Selenium//chromedriver_win32//chromedriver.exe";  
+	String driverPath = "C://Users//Administrator//Desktop//chromedriver.exe";  
 	public WebDriver driver ;   
 	@Test             
 	public void test() {      
