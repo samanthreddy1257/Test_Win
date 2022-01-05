@@ -103,7 +103,7 @@
 <version>2.19.1</version>  
 <configuration>  
 <suiteXmlFiles>  
-<suiteXmlFile>C:\Users\Reddy\Desktop\Eclipse\MySecondDemo\testng.xml</suiteXmlFile>  
+<suiteXmlFile>C:\Users\Administrator\Desktop\MySecondDemo\testng.xml</suiteXmlFile>  
 </suiteXmlFiles>  
 </configuration>  
 </plugin>  
